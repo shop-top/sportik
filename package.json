@@ -16,7 +16,7 @@
     "superagent": "^3.5.2"
   },
   "devDependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react-scripts": "0.9.5"
   },
   "scripts": {
